@@ -273,7 +273,7 @@ CRIAÇÃO DAS TRANSAÇÕES E CONTROLE DE CONCORRENCIA
 
 /*
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-CRIAÇÃO DA SEGURANÇA E CONTROLE DE ACESSSO
+CRIAÇÃO DA SEGURANÇA E CONTROLE DE ACESSO
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
